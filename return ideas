@@ -1,0 +1,47 @@
+Projet info :
+
+Faire un site qui regroupe les bases de la prog
+Avec les fonctions les plus utilisées
+Leurs variantes dans un select dans la page
+Les modules de base (connexion à une base de données, crud, controller)
+Proposer en select différents langages de dev
+Les utilisateurs peuvent poster leur fonctions de base, avec hashtag et catégorie,
+et peuvent noter différentes propositions. Apporter des modifications, optimisation, commentaires.
+
+Site return 1. Peut être une appli mobile si je suis chaud.
+Home : Présente le site, ces différentes catégories, donne des sources.
+Doc : Donne les catégories de gauche avec explications.
+Catégories de gauche :
+    Les bases de la prog
+    Les quick start des différentes langages et framework
+    Les IDE (et leurs langages adaptés)
+    Les variables (int, string, bool, chaînes, queries) dans les différents langages
+        et leurs usages ou assignation, ainsi que les différents raccourcis
+    Les classes
+    Les fonctions de base (clacul, assignation, conversion, création d'objets ou traitement d'information)
+    Les mots systèmes (if, else, while, for)
+    Les frameworks
+    Le packaging et déploiement d'appli
+
+Les utilisateurs peuvent :
+    Poster des articles de code, des fonctions, des classes
+        qui seront validées ou postées après 24h sans vérification (avec la mention non vérifiée)
+    Poster des commentaires (pas de demande de résolution de problème, utiliser stack overflow,
+        commentaires pour dire qu'un article a des erreurs, proposer des modifications ou des ajouts)
+    Prévoir un système de suspension ou de ban pour les utilisateurs toxiques
+    Prévoir des backups
+    Prévoir la forme des données en base (ça va être chaud)
+
+    BDD : MongoDB (eh ouais)
+    site : nodeJS avec express (Y ouais)
+    Framework css : Bulma
+    Framework js : Vue
+    Framework mongo : Monk
+
+    https://vegibit.com/vue-js-express-tutorial/
+
+    Pour le dossier de validation :
+        Laisser des pages à moitié vide n'est pas grave (ne pas abuser)
+        Prendre une police agréable à lire (couleur idem)
+        Mettre des images 1 page sur 2 ou 3
+        Peut être prendre cipango dans les projets (on sait jamais)
